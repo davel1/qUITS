@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fon">fon.jpg</file>
+        <file alias="gr3">Bezimeni-1.png</file>
+        <file alias="vsuet">4PUlA_6s9oI.jpg</file>
+        <file>logo (1).png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
